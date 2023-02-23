@@ -20,8 +20,5 @@ I am Khnishou, a 24 year old tech freak. Below is an overview of what you'll fin
 ### Stats
 ![Khnishou's GitHub stats](https://github-readme-stats.vercel.app/api?username=khnishou&count_private=true&show_icons=true&theme=tokyonight)
 
-### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
-![Contribution grid snake animation](https://raw.githubusercontent.com/khnishou/khnishou/output/github-contribution-grid-snake.svg)
-
 ![Profile views](https://gpvc.arturio.dev/codergirl-al)
 [![GitHub followers](https://img.shields.io/github/followers/khnishou.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/khnishou?tab=followers)
